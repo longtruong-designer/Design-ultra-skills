@@ -13,3 +13,4 @@ Each folder keeps its original LICENSE as LICENSE.txt (or LICENSE).
 | 04-visual/ui-ux-pro-max-full | github.com/nextlevelbuilder/ui-ux-pro-max-skill | MIT |
 
 Everything else was consolidated from skills already installed in the user's account.
+| 13-design-md-library | github.com/VoltAgent/awesome-design-md (84 DESIGN.md analyses of real sites) | MIT |

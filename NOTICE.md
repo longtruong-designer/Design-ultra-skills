@@ -15,6 +15,7 @@ Everything under `skills/*/references/` (and the same files inside `dist/*.skill
 | `skills/design-ultra/references/11-taste-and-web/emil-design-engineering` | github.com/emilkowalski/skills | MIT |
 | `skills/design-ultra/references/11-taste-and-web/vercel-web-interface-guidelines` | github.com/vercel-labs/web-interface-guidelines | MIT |
 | `skills/design-ultra/references/04-visual/ui-ux-pro-max-full` | github.com/nextlevelbuilder/ui-ux-pro-max-skill | MIT |
+| `skills/design-ultra/references/13-design-md-library` | github.com/VoltAgent/awesome-design-md | MIT |
 
 ## Anthropic and plugin skills
 

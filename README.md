@@ -4,7 +4,7 @@ Seven consolidated Claude skills. Each one replaces a cluster of single-purpose 
 
 | Skill | Replaces | Package |
 |---|---|---|
-| **design-ultra** | design, design-skills, frontend-design, ui-ux-pro-max (full database + scripts), taste-skill, Impeccable playbooks, Emil Kowalski design engineering, ui-skills, Vercel Web Interface Guidelines, theme-factory, canvas-design and related | `dist/design-ultra.skill` |
+| **design-ultra** | design, design-skills, frontend-design, ui-ux-pro-max (full database + scripts), taste-skill, Impeccable playbooks, Emil Kowalski design engineering, ui-skills, awesome-design-md (84 DESIGN.md files), Vercel Web Interface Guidelines, theme-factory, canvas-design and related | `dist/design-ultra.skill` |
 | **engineering-ultra** | engineering, 10x-Team, zizi (code), shieldcode, serverless-audit, mcp-builder, modern-web-guidance and related | `dist/engineering-ultra.skill` |
 | **product-ultra** | product-management, planning, A/B testing, product-tracking, status/handoff | `dist/product-ultra.skill` |
 | **marketing-ultra** | marketing, searchfit-seo, competitive intel, brand listening, postiz | `dist/marketing-ultra.skill` |
