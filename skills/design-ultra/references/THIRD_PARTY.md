@@ -14,3 +14,4 @@ Each folder keeps its original LICENSE as LICENSE.txt (or LICENSE).
 
 Everything else was consolidated from skills already installed in the user's account.
 | 13-design-md-library | github.com/VoltAgent/awesome-design-md (84 DESIGN.md analyses of real sites) | MIT |
+| 11-taste-and-web/elaya-landing-page | github.com/elayadesign/ai-design-skills | MIT |
